@@ -75,13 +75,13 @@ The system uses **LangGraph** to create an AI workflow:
 
 This system is designed for:
 
-Pharma sales representatives
-Medical field teams
+Pharma sales representatives,
+Medical field teams,
 CRM automation using AI
 
 **Key Learnings**
 
-Integration of LLM into real-world applications
-Building AI workflows using LangGraph
-Full-stack development (React + FastAPI)
+Integration of LLM into real-world applications,
+Building AI workflows using LangGraph,
+Full-stack development (React + FastAPI),
 CRM automation using AI
