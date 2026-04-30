@@ -15,7 +15,7 @@ This system helps sales representatives log, analyze, and manage doctor interact
 ### AI Autofill
 - Converts natural language into structured CRM data
 
-### 💬 AI Chat Assistant
+### AI Chat Assistant
 - Generates:
   - Summary
   - Insights
@@ -80,6 +80,7 @@ Medical field teams
 CRM automation using AI
 
 **Key Learnings**
+
 Integration of LLM into real-world applications
 Building AI workflows using LangGraph
 Full-stack development (React + FastAPI)
